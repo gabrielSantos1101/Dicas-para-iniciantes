@@ -2,43 +2,39 @@
 
 ## Extensões
 
-- Code spell checker
-- color Highlight
-- HTML end tag Labels
-- Live Preview
-- Live Server
-- Prettier
-- svg Preview
-- Polacode
-- Auto Rename tag
-- CSS Peek
-- styled-components-snippets
-- GitLens
-- Console Ninja
-- Tabnine AI
-- <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Auto close tags</a>
+- [Code spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [HTML end tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) [🤸 configure aqui](./assets/Prettier/index.md)
+- [svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [styled-components-snippets](https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 
 ---
 
 ## Temas
 
-- GitHub Theme
-- Omni Theme
-- Catppuccin for VSCode
-- Monokai Pro
-- Shades of Purple
-- One Dark Pro Monokai
-- Omni Dracula Theme
-- Aura Spirit Dracula
-  <a href="https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme">- BeardedBear</a>
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [Omni Theme](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni)
+- [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+- [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+- [One Dark Pro Monokai](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker)
+- [Omni Dracula Theme](https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.omni-dracula-theme)
+- [Aura Spirit Dracula](https://marketplace.visualstudio.com/items?itemName=JoseMurilloc.aura-spirit-dracula)
+- [BeardedBear](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
 
 ---
 
 ## Icons
 
-- Material icon Theme
-- Catppuccin Icons for VSCode
-- Symbols
-- vscode-icons
-- Nomo Dark Icon Theme
-- Helium Icon Theme
+- [Material icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=SenkoTheKitsune.nomo-dark-extended)
+- [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
