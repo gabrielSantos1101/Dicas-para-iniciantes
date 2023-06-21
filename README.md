@@ -27,6 +27,7 @@
 - [Omni Dracula Theme](https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.omni-dracula-theme)
 - [Aura Spirit Dracula](https://marketplace.visualstudio.com/items?itemName=JoseMurilloc.aura-spirit-dracula)
 - [BeardedBear](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
+- [SynthWave](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 
 ---
 
