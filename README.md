@@ -39,3 +39,27 @@
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=SenkoTheKitsune.nomo-dark-extended)
 - [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
+
+## Jogos
+
+- [git](https://learngitbranching.js.org/?locale=pt_BR)
+
+### css
+
+- [Flexbox zombies](https://mastery.games/post/flexboxzombies2/)
+- [Flexbox froggy](https://flexboxfroggy.com/)
+- [Flexbox defende](http://www.flexboxdefense.com/)
+- [Grid garden](https://cssgridgarden.com/)
+- [Grid attack](https://codingfantasy.com/games/css-grid-attack)
+- [Flukeout](https://flukeout.github.io/)
+- [Jamstack](https://jamstack-attack.herokuapp.com/steps.html)
+- [CSS speed run](https://css-speedrun.netlify.app/)
+- [CSS Battle](https://cssbattle.dev/)
+- [CSS scoops](https://codepip.com/games/css-scoops/)
+
+### JavaScript
+
+- [js challenges](https://jschallenger.com/)
+- [leet code](https://leetcode.com/problemset/javascript/)
+- [codingame](https://www.codingame.com/start)
+- [codeChef](https://www.codechef.com/)
