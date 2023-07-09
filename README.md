@@ -24,6 +24,7 @@
 - [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 - [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 - [One Dark Pro Monokai](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker)
+- [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 - [Omni Dracula Theme](https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.omni-dracula-theme)
 - [Aura Spirit Dracula](https://marketplace.visualstudio.com/items?itemName=JoseMurilloc.aura-spirit-dracula)
 - [BeardedBear](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
