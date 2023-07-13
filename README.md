@@ -45,6 +45,13 @@
 
 - [git](https://learngitbranching.js.org/?locale=pt_BR)
 
+### Design
+- [Can't see](https://cantunsee.space/)
+- [Color Game](https://color.method.ac/)
+- [Color Game](https://color.method.ac/)
+- [Type method](https://type.method.ac/)
+- [Boolean game](https://boolean.method.ac/)
+
 ### css
 
 - [Flexbox zombies](https://mastery.games/post/flexboxzombies2/)
