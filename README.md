@@ -30,6 +30,7 @@
 - [BeardedBear](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
 - [SynthWave](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 - [Tailwind theme](https://marketplace.visualstudio.com/items?itemName=WollaceBuarque.tailwind-theme)
+- [Rose pine](https://rosepinetheme.com/themes/)
 
 ---
 
