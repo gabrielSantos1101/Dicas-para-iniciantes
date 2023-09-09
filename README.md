@@ -2,6 +2,7 @@
 
 ## Extensões
 
+- [VS HTML to CSS](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-html-to-css)
 - [Code spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [HTML end tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
