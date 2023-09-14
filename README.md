@@ -68,6 +68,7 @@
 - [CSS speed run](https://css-speedrun.netlify.app/)
 - [CSS Battle](https://cssbattle.dev/)
 - [CSS scoops](https://codepip.com/games/css-scoops/)
+- [Play CSS](https://playcss.app/)
 
 ### JavaScript
 
