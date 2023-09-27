@@ -45,6 +45,11 @@
 - [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=SenkoTheKitsune.nomo-dark-extended)
 - [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
 
+## Aprenda javaScript
+- [javaScript concepts](https://github.com/leonardomso/33-js-concepts)
+- [Javascript questions](https://github.com/lydiahallie/javascript-questions)
+- [AirBnb](https://github.com/airbnb/javascript)
+
 ## Jogos
 
 - [git](https://learngitbranching.js.org/?locale=pt_BR)
