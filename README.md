@@ -33,6 +33,7 @@
 - [Tailwind theme](https://marketplace.visualstudio.com/items?itemName=WollaceBuarque.tailwind-theme)
 - [Rose pine](https://rosepinetheme.com/themes/)
 - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+- [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
 ---
 
