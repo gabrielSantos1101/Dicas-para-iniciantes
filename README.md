@@ -34,6 +34,7 @@
 - [Rose pine](https://rosepinetheme.com/themes/)
 - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
 ---
 
