@@ -83,3 +83,4 @@
 - [leet code](https://leetcode.com/problemset/javascript/)
 - [codingame](https://www.codingame.com/start)
 - [codeChef](https://www.codechef.com/)
+- [Java5Script](https://www.java5cript.com/code-challenges)
