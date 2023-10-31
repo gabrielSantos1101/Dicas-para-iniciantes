@@ -14,6 +14,7 @@
 - [styled-components-snippets](https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
+- [Error Help](https://marketplace.visualstudio.com/items?itemName=GihanSiriwardhana.error-help)
 
 ---
 
