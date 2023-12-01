@@ -48,6 +48,9 @@
 - [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=SenkoTheKitsune.nomo-dark-extended)
 - [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
 
+## Desafio Typescript (dezembro)
+- [Typehero](https://typehero.dev/aot-2023)
+
 ## Aprenda javaScript
 - [javaScript concepts](https://github.com/leonardomso/33-js-concepts)
 - [Javascript questions](https://github.com/lydiahallie/javascript-questions)
