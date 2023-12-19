@@ -55,6 +55,7 @@
 - [javaScript concepts](https://github.com/leonardomso/33-js-concepts)
 - [Javascript questions](https://github.com/lydiahallie/javascript-questions)
 - [AirBnb](https://github.com/airbnb/javascript)
+- [react props](https://www.freecodecamp.org/news/react-props-animated-guide/?ref=dailydev)
 
 ## Jogos
 
