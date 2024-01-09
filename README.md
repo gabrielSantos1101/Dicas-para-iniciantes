@@ -81,6 +81,7 @@
 - [CSS Battle](https://cssbattle.dev/)
 - [CSS scoops](https://codepip.com/games/css-scoops/)
 - [Play CSS](https://playcss.app/)
+- [Coding fantasy](https://codingfantasy.com/games)
 
 ### JavaScript
 
