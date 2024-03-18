@@ -20,6 +20,7 @@
 
 ## Temas
 
+- [Davinci](https://marketplace.visualstudio.com/items?itemName=GabrielBatista.Davinci)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - [Omni Theme](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni)
 - [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
@@ -57,6 +58,11 @@
 - [AirBnb](https://github.com/airbnb/javascript)
 - [react props](https://www.freecodecamp.org/news/react-props-animated-guide/?ref=dailydev)
 
+## sites uteis
+
+### CSS
+-[Easing gradients](https://larsenwork.com/easing-gradients/#editor)
+
 ## Jogos
 
 - [git](https://learngitbranching.js.org/?locale=pt_BR)
@@ -68,7 +74,7 @@
 - [Type method](https://type.method.ac/)
 - [Boolean game](https://boolean.method.ac/)
 
-### css
+### CSS
 
 - [Flexbox zombies](https://mastery.games/post/flexboxzombies2/)
 - [css2wind](https://www.css2wind.com/)
