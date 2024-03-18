@@ -71,6 +71,7 @@
 ### css
 
 - [Flexbox zombies](https://mastery.games/post/flexboxzombies2/)
+- [css2wind](https://www.css2wind.com/)
 - [Flexbox froggy](https://flexboxfroggy.com/)
 - [Flexbox defende](http://www.flexboxdefense.com/)
 - [Grid garden](https://cssgridgarden.com/)
